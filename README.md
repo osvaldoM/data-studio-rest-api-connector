@@ -2,7 +2,7 @@
 
 This is a community connector that is able to fetch json data from a given url and send it to google data studio for processing.
 
-This is not a complete connector as it does not address some use cases(see missing features section).
+This is not a complete connector as it does not address some use cases(see [missing features](#missing-features) section).
 
 I built this for my specific needs, without generalizing it too much and decided to share it in case anyone else could benefit from it, since there is little content online about building custom google data studio connectors. 
 
